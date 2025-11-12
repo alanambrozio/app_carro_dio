@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="eletric_car">Eletric Car</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="pre_o">Preço</string>
+    <string name="bateria">Bateria</string>
+    <string name="pot_ncia">Potência</string>
+    <string name="recarga">Recarga</string>
+    <string name="preco_kwh">Preço Kwh</string>
+    <string name="km_percorrido">Km percorrido</string>
+    <string name="calcular">Calcular</string>
+    <string name="autonomia">Autonomia</string>
+</resources>
